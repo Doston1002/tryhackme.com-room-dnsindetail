@@ -47,6 +47,7 @@ What type of server holds all the records for a domain?
 Answer:authoritative
 
 --------------------------Task 5 ----------------------------------------
+
 Practical
 
 What is the CNAME of shop.website.thm?
